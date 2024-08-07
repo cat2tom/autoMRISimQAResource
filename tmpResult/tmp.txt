@@ -1,0 +1,3 @@
+DateTime,SNR,Uniformity,Contrast,Ghosting,D45,D135,Output,LaserX,LaserY,LaserZ,Operator
+20240202.080626,1.78,97.193,0.797,0.0045,91.736,91.73,5.86,103.615,0,97.63,Therapist
+20240205.080710,1.769,98.361,0.797,0.01,91.271,91.794,6.199,102.015,0,97.641,Therapist

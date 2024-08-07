@@ -1,0 +1,1 @@
+C:\autoMRISimQAResource are the common resource for daily and monthly QA. The actual program sits atC:\autoMRIMonthQA and C:\autoMRISimDailyQA respectively.  

@@ -1,0 +1,11 @@
+*.dcm
+*.pdf
+*.pyd
+*.dll
+*.exe
+*.log
+*.xlsx
+*.mat
+
+compiledEXE/
+updateQATrackExe/

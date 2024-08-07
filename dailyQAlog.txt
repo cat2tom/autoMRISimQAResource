@@ -1,0 +1,554 @@
+" " 
+" " 
+05/02/2024 
+01:36 PM
+daily autoMRIQA script running 
+map V: drive 
+The command completed successfully.
+
+ Volume in drive C is OSDisk
+ Volume Serial Number is 4CF1-B4EA
+
+ Directory of C:\autoMRISimQAResource
+
+
+ Volume in drive V is DFS
+ Volume Serial Number is 327E-1D98
+
+ Directory of v:\CTC-LiverpoolOncology\DICOM\MRI_SIM_incoming
+
+18/10/2023  02:09 PM    <DIR>          .
+31/01/2024  05:13 PM    <DIR>          ..
+11/05/2023  01:32 PM    <DIR>          2023.05.05-093833-STD-1.3.12.2.1107.5.99.3_Stroke_Test_Frank
+05/07/2023  06:08 PM    <DIR>          2023.07.05-160158-STD-1.3.12.2.1107.5.99.3_Faraday_Cage_Test
+19/09/2023  01:49 PM    <DIR>          2023.09.19-122741-STD-1.3.12.2.1107.5.99.3_do_not_delete^Monthly_SE
+05/07/2023  03:22 PM    <DIR>          CASPER_STUDY_TEST_CASPER_STUDY_TEST
+11/05/2023  05:46 PM    <DIR>          CV08_CASPER_Volunteer_08
+24/03/2023  10:39 PM    <DIR>          DG01_Dielectric_test_Gel
+24/03/2023  10:36 PM    <DIR>          DTP01_Diff_test_phantom
+14/04/2023  07:15 PM    <DIR>          FW01_Fat_Water_Test
+22/09/2023  01:36 PM    <DIR>          lin
+11/05/2023  01:34 PM    <DIR>          M01_Volunteer_Casper_M
+05/02/2024  08:18 AM    <DIR>          MRISIM_Warmup_0_MRISIM_DAILY^WARMUP
+22/03/2023  05:41 PM    <DIR>          OGSE01_OGSE_test_01
+22/03/2023  04:41 PM    <DIR>          OGSE02
+05/07/2023  06:31 PM    <DIR>          PG02_Pelvic_Grid_02
+19/06/2023  12:35 PM    <DIR>          PGP01_Pelvic_Grid_Phantom_01
+13/07/2023  12:43 PM    <DIR>          qMRI01_qMRI_01_-_Vibrant
+05/05/2023  06:34 PM    <DIR>          TS01_Test_stroke
+11/05/2023  01:33 PM    <DIR>          V03_Volunteer_Casper_03
+10/05/2023  11:22 AM    <DIR>          VC06_Volunteer_Casper_06
+11/05/2023  01:28 PM    <DIR>          VC07_Volunteer_Casper_07
+11/05/2023  01:33 PM    <DIR>          VO5_CASPER_VOL5
+11/05/2023  01:33 PM    <DIR>          Volunteer_Casper_1
+               0 File(s)              0 bytes
+              24 Dir(s)  806,010,867,712 bytes free
+Run autoMRISimQATimerClinicTest.exe 
+05/02/2024 
+01:38 PM
+deleting all files under V:\CTC-LiverpoolOncology\DICOM\MRI_SIM_incoming\MRISIM_Warmup_0_MRISIM_DAILYWARMUP  
+Job finished  
+" " 
+" " 
+05/02/2024 
+01:38 PM
+daily autoMRIQA script running 
+map V: drive 
+The command completed successfully.
+
+ Volume in drive C is OSDisk
+ Volume Serial Number is 4CF1-B4EA
+
+ Directory of C:\autoMRISimQAResource
+
+
+ Volume in drive V is DFS
+ Volume Serial Number is 327E-1D98
+
+ Directory of v:\CTC-LiverpoolOncology\DICOM\MRI_SIM_incoming
+
+18/10/2023  02:09 PM    <DIR>          .
+31/01/2024  05:13 PM    <DIR>          ..
+11/05/2023  01:32 PM    <DIR>          2023.05.05-093833-STD-1.3.12.2.1107.5.99.3_Stroke_Test_Frank
+05/07/2023  06:08 PM    <DIR>          2023.07.05-160158-STD-1.3.12.2.1107.5.99.3_Faraday_Cage_Test
+19/09/2023  01:49 PM    <DIR>          2023.09.19-122741-STD-1.3.12.2.1107.5.99.3_do_not_delete^Monthly_SE
+05/07/2023  03:22 PM    <DIR>          CASPER_STUDY_TEST_CASPER_STUDY_TEST
+11/05/2023  05:46 PM    <DIR>          CV08_CASPER_Volunteer_08
+24/03/2023  10:39 PM    <DIR>          DG01_Dielectric_test_Gel
+24/03/2023  10:36 PM    <DIR>          DTP01_Diff_test_phantom
+14/04/2023  07:15 PM    <DIR>          FW01_Fat_Water_Test
+22/09/2023  01:36 PM    <DIR>          lin
+11/05/2023  01:34 PM    <DIR>          M01_Volunteer_Casper_M
+05/02/2024  08:18 AM    <DIR>          MRISIM_Warmup_0_MRISIM_DAILY^WARMUP
+22/03/2023  05:41 PM    <DIR>          OGSE01_OGSE_test_01
+22/03/2023  04:41 PM    <DIR>          OGSE02
+05/07/2023  06:31 PM    <DIR>          PG02_Pelvic_Grid_02
+19/06/2023  12:35 PM    <DIR>          PGP01_Pelvic_Grid_Phantom_01
+13/07/2023  12:43 PM    <DIR>          qMRI01_qMRI_01_-_Vibrant
+05/05/2023  06:34 PM    <DIR>          TS01_Test_stroke
+11/05/2023  01:33 PM    <DIR>          V03_Volunteer_Casper_03
+10/05/2023  11:22 AM    <DIR>          VC06_Volunteer_Casper_06
+11/05/2023  01:28 PM    <DIR>          VC07_Volunteer_Casper_07
+11/05/2023  01:33 PM    <DIR>          VO5_CASPER_VOL5
+11/05/2023  01:33 PM    <DIR>          Volunteer_Casper_1
+               0 File(s)              0 bytes
+              24 Dir(s)  806,002,012,160 bytes free
+Run autoMRISimQATimerClinicTest.exe 
+05/02/2024 
+01:39 PM
+deleting all files under V:\CTC-LiverpoolOncology\DICOM\MRI_SIM_incoming\MRISIM_Warmup_0_MRISIM_DAILYWARMUP  
+Job finished  
+" " 
+" " 
+05/02/2024 
+01:40 PM
+daily autoMRIQA script running 
+map V: drive 
+The command completed successfully.
+
+ Volume in drive C is OSDisk
+ Volume Serial Number is 4CF1-B4EA
+
+ Directory of C:\autoMRISimQAResource
+
+
+ Volume in drive V is DFS
+ Volume Serial Number is 327E-1D98
+
+ Directory of v:\CTC-LiverpoolOncology\DICOM\MRI_SIM_incoming
+
+18/10/2023  02:09 PM    <DIR>          .
+31/01/2024  05:13 PM    <DIR>          ..
+11/05/2023  01:32 PM    <DIR>          2023.05.05-093833-STD-1.3.12.2.1107.5.99.3_Stroke_Test_Frank
+05/07/2023  06:08 PM    <DIR>          2023.07.05-160158-STD-1.3.12.2.1107.5.99.3_Faraday_Cage_Test
+19/09/2023  01:49 PM    <DIR>          2023.09.19-122741-STD-1.3.12.2.1107.5.99.3_do_not_delete^Monthly_SE
+05/07/2023  03:22 PM    <DIR>          CASPER_STUDY_TEST_CASPER_STUDY_TEST
+11/05/2023  05:46 PM    <DIR>          CV08_CASPER_Volunteer_08
+24/03/2023  10:39 PM    <DIR>          DG01_Dielectric_test_Gel
+24/03/2023  10:36 PM    <DIR>          DTP01_Diff_test_phantom
+14/04/2023  07:15 PM    <DIR>          FW01_Fat_Water_Test
+22/09/2023  01:36 PM    <DIR>          lin
+11/05/2023  01:34 PM    <DIR>          M01_Volunteer_Casper_M
+05/02/2024  08:18 AM    <DIR>          MRISIM_Warmup_0_MRISIM_DAILY^WARMUP
+22/03/2023  05:41 PM    <DIR>          OGSE01_OGSE_test_01
+22/03/2023  04:41 PM    <DIR>          OGSE02
+05/07/2023  06:31 PM    <DIR>          PG02_Pelvic_Grid_02
+19/06/2023  12:35 PM    <DIR>          PGP01_Pelvic_Grid_Phantom_01
+13/07/2023  12:43 PM    <DIR>          qMRI01_qMRI_01_-_Vibrant
+05/05/2023  06:34 PM    <DIR>          TS01_Test_stroke
+11/05/2023  01:33 PM    <DIR>          V03_Volunteer_Casper_03
+10/05/2023  11:22 AM    <DIR>          VC06_Volunteer_Casper_06
+11/05/2023  01:28 PM    <DIR>          VC07_Volunteer_Casper_07
+11/05/2023  01:33 PM    <DIR>          VO5_CASPER_VOL5
+11/05/2023  01:33 PM    <DIR>          Volunteer_Casper_1
+               0 File(s)              0 bytes
+              24 Dir(s)  805,982,560,256 bytes free
+Run autoMRISimQATimerClinicTest.exe 
+05/02/2024 
+01:40 PM
+deleting all files under V:\CTC-LiverpoolOncology\DICOM\MRI_SIM_incoming\MRISIM_Warmup_0_MRISIM_DAILYWARMUP  
+Job finished  
+" " 
+" " 
+05/02/2024 
+01:44 PM
+daily autoMRIQA script running 
+map V: drive 
+The command completed successfully.
+
+ Volume in drive C is OSDisk
+ Volume Serial Number is 4CF1-B4EA
+
+ Directory of C:\autoMRISimQAResource
+
+
+ Volume in drive V is DFS
+ Volume Serial Number is 327E-1D98
+
+ Directory of v:\CTC-LiverpoolOncology\DICOM\MRI_SIM_incoming
+
+18/10/2023  02:09 PM    <DIR>          .
+31/01/2024  05:13 PM    <DIR>          ..
+11/05/2023  01:32 PM    <DIR>          2023.05.05-093833-STD-1.3.12.2.1107.5.99.3_Stroke_Test_Frank
+05/07/2023  06:08 PM    <DIR>          2023.07.05-160158-STD-1.3.12.2.1107.5.99.3_Faraday_Cage_Test
+19/09/2023  01:49 PM    <DIR>          2023.09.19-122741-STD-1.3.12.2.1107.5.99.3_do_not_delete^Monthly_SE
+05/07/2023  03:22 PM    <DIR>          CASPER_STUDY_TEST_CASPER_STUDY_TEST
+11/05/2023  05:46 PM    <DIR>          CV08_CASPER_Volunteer_08
+24/03/2023  10:39 PM    <DIR>          DG01_Dielectric_test_Gel
+24/03/2023  10:36 PM    <DIR>          DTP01_Diff_test_phantom
+14/04/2023  07:15 PM    <DIR>          FW01_Fat_Water_Test
+22/09/2023  01:36 PM    <DIR>          lin
+11/05/2023  01:34 PM    <DIR>          M01_Volunteer_Casper_M
+05/02/2024  08:18 AM    <DIR>          MRISIM_Warmup_0_MRISIM_DAILY^WARMUP
+22/03/2023  05:41 PM    <DIR>          OGSE01_OGSE_test_01
+22/03/2023  04:41 PM    <DIR>          OGSE02
+05/07/2023  06:31 PM    <DIR>          PG02_Pelvic_Grid_02
+19/06/2023  12:35 PM    <DIR>          PGP01_Pelvic_Grid_Phantom_01
+13/07/2023  12:43 PM    <DIR>          qMRI01_qMRI_01_-_Vibrant
+05/05/2023  06:34 PM    <DIR>          TS01_Test_stroke
+11/05/2023  01:33 PM    <DIR>          V03_Volunteer_Casper_03
+10/05/2023  11:22 AM    <DIR>          VC06_Volunteer_Casper_06
+11/05/2023  01:28 PM    <DIR>          VC07_Volunteer_Casper_07
+11/05/2023  01:33 PM    <DIR>          VO5_CASPER_VOL5
+11/05/2023  01:33 PM    <DIR>          Volunteer_Casper_1
+               0 File(s)              0 bytes
+              24 Dir(s)  805,949,472,768 bytes free
+Run autoMRISimQATimerClinicTest.exe 
+05/02/2024 
+01:44 PM
+deleting all files under V:\CTC-LiverpoolOncology\DICOM\MRI_SIM_incoming\MRISIM_Warmup_0_MRISIM_DAILYWARMUP  
+Job finished  
+" " 
+" " 
+05/02/2024 
+01:55 PM
+daily autoMRIQA script running 
+map V: drive 
+The command completed successfully.
+
+ Volume in drive C is OSDisk
+ Volume Serial Number is 4CF1-B4EA
+
+ Directory of C:\autoMRISimQAResource
+
+
+ Volume in drive V is DFS
+ Volume Serial Number is 327E-1D98
+
+ Directory of v:\CTC-LiverpoolOncology\DICOM\MRI_SIM_incoming
+
+05/02/2024  01:54 PM    <DIR>          .
+31/01/2024  05:13 PM    <DIR>          ..
+11/05/2023  01:32 PM    <DIR>          2023.05.05-093833-STD-1.3.12.2.1107.5.99.3_Stroke_Test_Frank
+05/07/2023  06:08 PM    <DIR>          2023.07.05-160158-STD-1.3.12.2.1107.5.99.3_Faraday_Cage_Test
+19/09/2023  01:49 PM    <DIR>          2023.09.19-122741-STD-1.3.12.2.1107.5.99.3_do_not_delete^Monthly_SE
+05/07/2023  03:22 PM    <DIR>          CASPER_STUDY_TEST_CASPER_STUDY_TEST
+11/05/2023  05:46 PM    <DIR>          CV08_CASPER_Volunteer_08
+24/03/2023  10:39 PM    <DIR>          DG01_Dielectric_test_Gel
+24/03/2023  10:36 PM    <DIR>          DTP01_Diff_test_phantom
+14/04/2023  07:15 PM    <DIR>          FW01_Fat_Water_Test
+22/09/2023  01:36 PM    <DIR>          lin
+11/05/2023  01:34 PM    <DIR>          M01_Volunteer_Casper_M
+05/02/2024  08:18 AM    <DIR>          MRISIM_Warmup_0_MRISIM_DAILY^WARMUP
+05/02/2024  01:54 PM    <DIR>          MRISIM_Warmup_0_MRISIM_DAILY^WARMUP2
+22/03/2023  05:41 PM    <DIR>          OGSE01_OGSE_test_01
+22/03/2023  04:41 PM    <DIR>          OGSE02
+05/07/2023  06:31 PM    <DIR>          PG02_Pelvic_Grid_02
+19/06/2023  12:35 PM    <DIR>          PGP01_Pelvic_Grid_Phantom_01
+13/07/2023  12:43 PM    <DIR>          qMRI01_qMRI_01_-_Vibrant
+05/05/2023  06:34 PM    <DIR>          TS01_Test_stroke
+11/05/2023  01:33 PM    <DIR>          V03_Volunteer_Casper_03
+10/05/2023  11:22 AM    <DIR>          VC06_Volunteer_Casper_06
+11/05/2023  01:28 PM    <DIR>          VC07_Volunteer_Casper_07
+11/05/2023  01:33 PM    <DIR>          VO5_CASPER_VOL5
+11/05/2023  01:33 PM    <DIR>          Volunteer_Casper_1
+               0 File(s)              0 bytes
+              25 Dir(s)  805,853,437,952 bytes free
+Run autoMRISimQATimerClinicTest.exe 
+05/02/2024 
+01:55 PM
+deleting all files under V:\CTC-LiverpoolOncology\DICOM\MRI_SIM_incoming\MRISIM_Warmup_0_MRISIM_DAILYWARMUP  
+Job finished  
+" " 
+" " 
+05/02/2024 
+02:03 PM
+daily autoMRIQA script running 
+map V: drive 
+The command completed successfully.
+
+ Volume in drive C is OSDisk
+ Volume Serial Number is 4CF1-B4EA
+
+ Directory of C:\autoMRISimQAResource
+
+
+ Volume in drive V is DFS
+ Volume Serial Number is 327E-1D98
+
+ Directory of v:\CTC-LiverpoolOncology\DICOM\MRI_SIM_incoming
+
+05/02/2024  01:54 PM    <DIR>          .
+31/01/2024  05:13 PM    <DIR>          ..
+11/05/2023  01:32 PM    <DIR>          2023.05.05-093833-STD-1.3.12.2.1107.5.99.3_Stroke_Test_Frank
+05/07/2023  06:08 PM    <DIR>          2023.07.05-160158-STD-1.3.12.2.1107.5.99.3_Faraday_Cage_Test
+19/09/2023  01:49 PM    <DIR>          2023.09.19-122741-STD-1.3.12.2.1107.5.99.3_do_not_delete^Monthly_SE
+05/07/2023  03:22 PM    <DIR>          CASPER_STUDY_TEST_CASPER_STUDY_TEST
+11/05/2023  05:46 PM    <DIR>          CV08_CASPER_Volunteer_08
+24/03/2023  10:39 PM    <DIR>          DG01_Dielectric_test_Gel
+24/03/2023  10:36 PM    <DIR>          DTP01_Diff_test_phantom
+14/04/2023  07:15 PM    <DIR>          FW01_Fat_Water_Test
+22/09/2023  01:36 PM    <DIR>          lin
+11/05/2023  01:34 PM    <DIR>          M01_Volunteer_Casper_M
+05/02/2024  08:18 AM    <DIR>          MRISIM_Warmup_0_MRISIM_DAILY^WARMUP
+05/02/2024  01:54 PM    <DIR>          MRISIM_Warmup_0_MRISIM_DAILY^WARMUP2
+22/03/2023  05:41 PM    <DIR>          OGSE01_OGSE_test_01
+22/03/2023  04:41 PM    <DIR>          OGSE02
+05/07/2023  06:31 PM    <DIR>          PG02_Pelvic_Grid_02
+19/06/2023  12:35 PM    <DIR>          PGP01_Pelvic_Grid_Phantom_01
+13/07/2023  12:43 PM    <DIR>          qMRI01_qMRI_01_-_Vibrant
+05/05/2023  06:34 PM    <DIR>          TS01_Test_stroke
+11/05/2023  01:33 PM    <DIR>          V03_Volunteer_Casper_03
+10/05/2023  11:22 AM    <DIR>          VC06_Volunteer_Casper_06
+11/05/2023  01:28 PM    <DIR>          VC07_Volunteer_Casper_07
+11/05/2023  01:33 PM    <DIR>          VO5_CASPER_VOL5
+11/05/2023  01:33 PM    <DIR>          Volunteer_Casper_1
+               0 File(s)              0 bytes
+              25 Dir(s)  805,833,936,896 bytes free
+Run autoMRISimQATimerClinicTest.exe 
+05/02/2024 
+02:04 PM
+deleting all files under V:\CTC-LiverpoolOncology\DICOM\MRI_SIM_incoming\MRISIM_Warmup_0_MRISIM_DAILYWARMUP  
+Job finished  
+" " 
+" " 
+05/02/2024 
+02:13 PM
+daily autoMRIQA script running 
+map V: drive 
+The command completed successfully.
+
+ Volume in drive C is OSDisk
+ Volume Serial Number is 4CF1-B4EA
+
+ Directory of C:\autoMRISimQAResource
+
+
+ Volume in drive V is DFS
+ Volume Serial Number is 327E-1D98
+
+ Directory of v:\CTC-LiverpoolOncology\DICOM\MRI_SIM_incoming
+
+05/02/2024  01:54 PM    <DIR>          .
+31/01/2024  05:13 PM    <DIR>          ..
+11/05/2023  01:32 PM    <DIR>          2023.05.05-093833-STD-1.3.12.2.1107.5.99.3_Stroke_Test_Frank
+05/07/2023  06:08 PM    <DIR>          2023.07.05-160158-STD-1.3.12.2.1107.5.99.3_Faraday_Cage_Test
+19/09/2023  01:49 PM    <DIR>          2023.09.19-122741-STD-1.3.12.2.1107.5.99.3_do_not_delete^Monthly_SE
+05/07/2023  03:22 PM    <DIR>          CASPER_STUDY_TEST_CASPER_STUDY_TEST
+11/05/2023  05:46 PM    <DIR>          CV08_CASPER_Volunteer_08
+24/03/2023  10:39 PM    <DIR>          DG01_Dielectric_test_Gel
+24/03/2023  10:36 PM    <DIR>          DTP01_Diff_test_phantom
+14/04/2023  07:15 PM    <DIR>          FW01_Fat_Water_Test
+22/09/2023  01:36 PM    <DIR>          lin
+11/05/2023  01:34 PM    <DIR>          M01_Volunteer_Casper_M
+05/02/2024  08:18 AM    <DIR>          MRISIM_Warmup_0_MRISIM_DAILY^WARMUP
+05/02/2024  01:54 PM    <DIR>          MRISIM_Warmup_0_MRISIM_DAILY^WARMUP2
+22/03/2023  05:41 PM    <DIR>          OGSE01_OGSE_test_01
+22/03/2023  04:41 PM    <DIR>          OGSE02
+05/07/2023  06:31 PM    <DIR>          PG02_Pelvic_Grid_02
+19/06/2023  12:35 PM    <DIR>          PGP01_Pelvic_Grid_Phantom_01
+13/07/2023  12:43 PM    <DIR>          qMRI01_qMRI_01_-_Vibrant
+05/05/2023  06:34 PM    <DIR>          TS01_Test_stroke
+11/05/2023  01:33 PM    <DIR>          V03_Volunteer_Casper_03
+10/05/2023  11:22 AM    <DIR>          VC06_Volunteer_Casper_06
+11/05/2023  01:28 PM    <DIR>          VC07_Volunteer_Casper_07
+11/05/2023  01:33 PM    <DIR>          VO5_CASPER_VOL5
+11/05/2023  01:33 PM    <DIR>          Volunteer_Casper_1
+               0 File(s)              0 bytes
+              25 Dir(s)  805,747,585,024 bytes free
+Run autoMRISimQATimerClinicTest.exe 
+05/02/2024 
+02:14 PM
+deleting all files under V:\CTC-LiverpoolOncology\DICOM\MRI_SIM_incoming\MRISIM_Warmup_0_MRISIM_DAILYWARMUP  
+Job finished  
+" " 
+" " 
+05/02/2024 
+02:33 PM
+daily autoMRIQA script running 
+map V: drive 
+The command completed successfully.
+
+ Volume in drive C is OSDisk
+ Volume Serial Number is 4CF1-B4EA
+
+ Directory of C:\autoMRISimQAResource
+
+
+ Volume in drive V is DFS
+ Volume Serial Number is 327E-1D98
+
+ Directory of v:\CTC-LiverpoolOncology\DICOM\MRI_SIM_incoming
+
+05/02/2024  01:54 PM    <DIR>          .
+31/01/2024  05:13 PM    <DIR>          ..
+11/05/2023  01:32 PM    <DIR>          2023.05.05-093833-STD-1.3.12.2.1107.5.99.3_Stroke_Test_Frank
+05/07/2023  06:08 PM    <DIR>          2023.07.05-160158-STD-1.3.12.2.1107.5.99.3_Faraday_Cage_Test
+19/09/2023  01:49 PM    <DIR>          2023.09.19-122741-STD-1.3.12.2.1107.5.99.3_do_not_delete^Monthly_SE
+05/07/2023  03:22 PM    <DIR>          CASPER_STUDY_TEST_CASPER_STUDY_TEST
+11/05/2023  05:46 PM    <DIR>          CV08_CASPER_Volunteer_08
+24/03/2023  10:39 PM    <DIR>          DG01_Dielectric_test_Gel
+24/03/2023  10:36 PM    <DIR>          DTP01_Diff_test_phantom
+14/04/2023  07:15 PM    <DIR>          FW01_Fat_Water_Test
+22/09/2023  01:36 PM    <DIR>          lin
+11/05/2023  01:34 PM    <DIR>          M01_Volunteer_Casper_M
+05/02/2024  08:18 AM    <DIR>          MRISIM_Warmup_0_MRISIM_DAILY^WARMUP
+05/02/2024  01:54 PM    <DIR>          MRISIM_Warmup_0_MRISIM_DAILY^WARMUP2
+22/03/2023  05:41 PM    <DIR>          OGSE01_OGSE_test_01
+22/03/2023  04:41 PM    <DIR>          OGSE02
+05/07/2023  06:31 PM    <DIR>          PG02_Pelvic_Grid_02
+19/06/2023  12:35 PM    <DIR>          PGP01_Pelvic_Grid_Phantom_01
+13/07/2023  12:43 PM    <DIR>          qMRI01_qMRI_01_-_Vibrant
+05/05/2023  06:34 PM    <DIR>          TS01_Test_stroke
+11/05/2023  01:33 PM    <DIR>          V03_Volunteer_Casper_03
+10/05/2023  11:22 AM    <DIR>          VC06_Volunteer_Casper_06
+11/05/2023  01:28 PM    <DIR>          VC07_Volunteer_Casper_07
+11/05/2023  01:33 PM    <DIR>          VO5_CASPER_VOL5
+11/05/2023  01:33 PM    <DIR>          Volunteer_Casper_1
+               0 File(s)              0 bytes
+              25 Dir(s)  805,707,923,456 bytes free
+Run autoMRISimQATimerClinicTest.exe 
+05/02/2024 
+02:39 PM
+deleting all files under V:\CTC-LiverpoolOncology\DICOM\MRI_SIM_incoming\MRISIM_Warmup_0_MRISIM_DAILYWARMUP  
+Job finished  
+" " 
+" " 
+05/02/2024 
+02:40 PM
+daily autoMRIQA script running 
+map V: drive 
+The command completed successfully.
+
+ Volume in drive C is OSDisk
+ Volume Serial Number is 4CF1-B4EA
+
+ Directory of C:\autoMRISimQAResource
+
+
+ Volume in drive V is DFS
+ Volume Serial Number is 327E-1D98
+
+ Directory of v:\CTC-LiverpoolOncology\DICOM\MRI_SIM_incoming
+
+05/02/2024  01:54 PM    <DIR>          .
+31/01/2024  05:13 PM    <DIR>          ..
+11/05/2023  01:32 PM    <DIR>          2023.05.05-093833-STD-1.3.12.2.1107.5.99.3_Stroke_Test_Frank
+05/07/2023  06:08 PM    <DIR>          2023.07.05-160158-STD-1.3.12.2.1107.5.99.3_Faraday_Cage_Test
+19/09/2023  01:49 PM    <DIR>          2023.09.19-122741-STD-1.3.12.2.1107.5.99.3_do_not_delete^Monthly_SE
+05/07/2023  03:22 PM    <DIR>          CASPER_STUDY_TEST_CASPER_STUDY_TEST
+11/05/2023  05:46 PM    <DIR>          CV08_CASPER_Volunteer_08
+24/03/2023  10:39 PM    <DIR>          DG01_Dielectric_test_Gel
+24/03/2023  10:36 PM    <DIR>          DTP01_Diff_test_phantom
+14/04/2023  07:15 PM    <DIR>          FW01_Fat_Water_Test
+22/09/2023  01:36 PM    <DIR>          lin
+11/05/2023  01:34 PM    <DIR>          M01_Volunteer_Casper_M
+05/02/2024  08:18 AM    <DIR>          MRISIM_Warmup_0_MRISIM_DAILY^WARMUP
+05/02/2024  01:54 PM    <DIR>          MRISIM_Warmup_0_MRISIM_DAILY^WARMUP2
+22/03/2023  05:41 PM    <DIR>          OGSE01_OGSE_test_01
+22/03/2023  04:41 PM    <DIR>          OGSE02
+05/07/2023  06:31 PM    <DIR>          PG02_Pelvic_Grid_02
+19/06/2023  12:35 PM    <DIR>          PGP01_Pelvic_Grid_Phantom_01
+13/07/2023  12:43 PM    <DIR>          qMRI01_qMRI_01_-_Vibrant
+05/05/2023  06:34 PM    <DIR>          TS01_Test_stroke
+11/05/2023  01:33 PM    <DIR>          V03_Volunteer_Casper_03
+10/05/2023  11:22 AM    <DIR>          VC06_Volunteer_Casper_06
+11/05/2023  01:28 PM    <DIR>          VC07_Volunteer_Casper_07
+11/05/2023  01:33 PM    <DIR>          VO5_CASPER_VOL5
+11/05/2023  01:33 PM    <DIR>          Volunteer_Casper_1
+               0 File(s)              0 bytes
+              25 Dir(s)  805,631,180,800 bytes free
+Run autoMRISimQATimerClinicTest.exe 
+05/02/2024 
+02:40 PM
+Job finished  
+" " 
+" " 
+06/02/2024 
+11:58 AM
+daily autoMRIQA script running 
+map V: drive 
+The command completed successfully.
+
+ Volume in drive C is OSDisk
+ Volume Serial Number is 4CF1-B4EA
+
+ Directory of C:\autoMRISimQAResource
+
+
+ Volume in drive V is DFS
+ Volume Serial Number is 327E-1D98
+
+ Directory of v:\CTC-LiverpoolOncology\DICOM\MRI_SIM_incoming
+
+05/02/2024  01:54 PM    <DIR>          .
+31/01/2024  05:13 PM    <DIR>          ..
+11/05/2023  01:32 PM    <DIR>          2023.05.05-093833-STD-1.3.12.2.1107.5.99.3_Stroke_Test_Frank
+05/07/2023  06:08 PM    <DIR>          2023.07.05-160158-STD-1.3.12.2.1107.5.99.3_Faraday_Cage_Test
+19/09/2023  01:49 PM    <DIR>          2023.09.19-122741-STD-1.3.12.2.1107.5.99.3_do_not_delete^Monthly_SE
+05/07/2023  03:22 PM    <DIR>          CASPER_STUDY_TEST_CASPER_STUDY_TEST
+11/05/2023  05:46 PM    <DIR>          CV08_CASPER_Volunteer_08
+24/03/2023  10:39 PM    <DIR>          DG01_Dielectric_test_Gel
+24/03/2023  10:36 PM    <DIR>          DTP01_Diff_test_phantom
+14/04/2023  07:15 PM    <DIR>          FW01_Fat_Water_Test
+22/09/2023  01:36 PM    <DIR>          lin
+11/05/2023  01:34 PM    <DIR>          M01_Volunteer_Casper_M
+05/02/2024  08:18 AM    <DIR>          MRISIM_Warmup_0_MRISIM_DAILY^WARMUP
+05/02/2024  01:54 PM    <DIR>          MRISIM_Warmup_0_MRISIM_DAILY^WARMUP2
+22/03/2023  05:41 PM    <DIR>          OGSE01_OGSE_test_01
+22/03/2023  04:41 PM    <DIR>          OGSE02
+05/07/2023  06:31 PM    <DIR>          PG02_Pelvic_Grid_02
+19/06/2023  12:35 PM    <DIR>          PGP01_Pelvic_Grid_Phantom_01
+13/07/2023  12:43 PM    <DIR>          qMRI01_qMRI_01_-_Vibrant
+05/05/2023  06:34 PM    <DIR>          TS01_Test_stroke
+11/05/2023  01:33 PM    <DIR>          V03_Volunteer_Casper_03
+10/05/2023  11:22 AM    <DIR>          VC06_Volunteer_Casper_06
+11/05/2023  01:28 PM    <DIR>          VC07_Volunteer_Casper_07
+11/05/2023  01:33 PM    <DIR>          VO5_CASPER_VOL5
+11/05/2023  01:33 PM    <DIR>          Volunteer_Casper_1
+               0 File(s)              0 bytes
+              25 Dir(s)  806,977,646,592 bytes free
+Run autoMRISimQATimerClinicTest.exe 
+06/02/2024 
+11:59 AM
+Job finished  
+" " 
+" " 
+06/02/2024 
+12:14 PM
+daily autoMRIQA script running 
+map V: drive 
+The command completed successfully.
+
+ Volume in drive C is OSDisk
+ Volume Serial Number is 4CF1-B4EA
+
+ Directory of C:\autoMRISimQAResource
+
+
+ Volume in drive V is DFS
+ Volume Serial Number is 327E-1D98
+
+ Directory of v:\CTC-LiverpoolOncology\DICOM\MRI_SIM_incoming
+
+05/02/2024  01:54 PM    <DIR>          .
+31/01/2024  05:13 PM    <DIR>          ..
+11/05/2023  01:32 PM    <DIR>          2023.05.05-093833-STD-1.3.12.2.1107.5.99.3_Stroke_Test_Frank
+05/07/2023  06:08 PM    <DIR>          2023.07.05-160158-STD-1.3.12.2.1107.5.99.3_Faraday_Cage_Test
+19/09/2023  01:49 PM    <DIR>          2023.09.19-122741-STD-1.3.12.2.1107.5.99.3_do_not_delete^Monthly_SE
+05/07/2023  03:22 PM    <DIR>          CASPER_STUDY_TEST_CASPER_STUDY_TEST
+11/05/2023  05:46 PM    <DIR>          CV08_CASPER_Volunteer_08
+24/03/2023  10:39 PM    <DIR>          DG01_Dielectric_test_Gel
+24/03/2023  10:36 PM    <DIR>          DTP01_Diff_test_phantom
+14/04/2023  07:15 PM    <DIR>          FW01_Fat_Water_Test
+22/09/2023  01:36 PM    <DIR>          lin
+11/05/2023  01:34 PM    <DIR>          M01_Volunteer_Casper_M
+05/02/2024  08:18 AM    <DIR>          MRISIM_Warmup_0_MRISIM_DAILY^WARMUP
+05/02/2024  01:54 PM    <DIR>          MRISIM_Warmup_0_MRISIM_DAILY^WARMUP2
+22/03/2023  05:41 PM    <DIR>          OGSE01_OGSE_test_01
+22/03/2023  04:41 PM    <DIR>          OGSE02
+05/07/2023  06:31 PM    <DIR>          PG02_Pelvic_Grid_02
+19/06/2023  12:35 PM    <DIR>          PGP01_Pelvic_Grid_Phantom_01
+13/07/2023  12:43 PM    <DIR>          qMRI01_qMRI_01_-_Vibrant
+05/05/2023  06:34 PM    <DIR>          TS01_Test_stroke
+11/05/2023  01:33 PM    <DIR>          V03_Volunteer_Casper_03
+10/05/2023  11:22 AM    <DIR>          VC06_Volunteer_Casper_06
+11/05/2023  01:28 PM    <DIR>          VC07_Volunteer_Casper_07
+11/05/2023  01:33 PM    <DIR>          VO5_CASPER_VOL5
+11/05/2023  01:33 PM    <DIR>          Volunteer_Casper_1
+               0 File(s)              0 bytes
+              25 Dir(s)  807,065,694,208 bytes free
+Run autoMRISimQATimerClinicTest.exe 
+06/02/2024 
+12:15 PM
+Job finished  
